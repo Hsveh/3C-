@@ -1,6 +1,7 @@
 # 3C-小车代码
-上海交通大学3C小车代码
+![Languages](https://img.shields.io/badge/Languages-Arduino-blue.svg)
 
+上海交通大学3C小车代码
 ## 用法
 'w' 前进
 'a' 左转
